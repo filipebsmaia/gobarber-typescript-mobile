@@ -1,0 +1,4 @@
+#Mon Jul 13 10:55:59 BRT 2020
+base.0=/mnt/c/Users/filip/code/rocketseat/gobarbermobile/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
